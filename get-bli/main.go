@@ -1,8 +1,8 @@
 package main
 
 import (
-	"get-bli/downloader"
-	myfmt "get-bli/fmt"
+	"learn-go/get-bli/downloader"
+	myfmt "learn-go/get-bli/fmt"
 )
 
 func main() {
